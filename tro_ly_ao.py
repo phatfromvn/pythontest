@@ -16,7 +16,7 @@ def robotReply(robotBrain):
 while True:
     # obtain audio from the microphone
     with sr.Microphone() as source:
-        print("Robot: Say something...")
+        print("Robot: Say something.")
         robotEar = recognition.listen(source)
 
     # recognize speech using Google Speech Recognition
