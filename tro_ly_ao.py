@@ -27,7 +27,7 @@ while True:
     except sr.RequestError as e:
         print("Could not request results from Google Speech Recognition service; {0}".format(e))
 
-    #you = input("You: ")
+    you = input("You: ")
 
     # hieu thong tin
     if "hello" in you:
