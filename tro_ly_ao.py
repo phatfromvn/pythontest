@@ -50,5 +50,3 @@ while True:
 
     # tra loi
     robotReply(robotBrain)
-# xx
-# zz
