@@ -1,3 +1,1 @@
 # pythontest
-xxx
-zzz
